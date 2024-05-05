@@ -63,3 +63,6 @@ incompatibilities between Chez Scheme and Racket.  You will find a few
 notes to this effect in the code.  Will tested all code in Chez Scheme
 10.0.0.  Michael and Will also used Racket when developing the code in
 `trs2.scm` and `trs3.scm`.
+
+`trs6.scm` cleans up the macro in `trs5.scm` slightly, to make the
+code easier to read, based on suggestions from Michael Ballantyne.
