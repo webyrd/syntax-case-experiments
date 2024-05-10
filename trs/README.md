@@ -10,7 +10,7 @@ Madhavan Mukund at Chennai Mathematical Institute, along with Will
 Byrd.  Brandon Willard proposed implementing Knuth-Bendix in
 miniKanren.  Arunava's work has been greatly influenced by this
 [implementation of Knuth-Bendix in
-Prolog](https://www.metalevel.at/trs/) by Markus Triska:
+Prolog](https://www.metalevel.at/trs/) by Markus Triska.
 
 Arunava's original specification is that the syntax:
 
